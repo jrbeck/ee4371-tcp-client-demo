@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TCP Client Demo</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_text">Send</string>
+    <string name="sent_to_server">Message sent to server:</string>
+    <string name="response_from_server">Response from server:</string>
+</resources>
